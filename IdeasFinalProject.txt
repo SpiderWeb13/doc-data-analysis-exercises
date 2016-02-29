@@ -1,1 +1,3 @@
-Ideas for final project 
+Ideas for final Data Science project:
+LIDAR
+Remote Sensing
